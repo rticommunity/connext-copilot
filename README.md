@@ -1,5 +1,5 @@
-# Welcome to Connext Copilot
+# Welcome to Connext Copilot 
 
-Connext Copilot brings the power of Connext AI to your IDE.
+**Connext Copilot** brings the power of Connext AI to your IDE.
 
-To install Connext Copilot and learn more, see [here.](https://marketplace.visualstudio.com/items?itemName=RTI.connext-vc-copilot)
+To install Connext Copilot and learn more, visit our VS Code Marketplace page, [here.](https://marketplace.visualstudio.com/items?itemName=RTI.connext-vc-copilot)
